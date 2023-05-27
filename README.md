@@ -24,9 +24,9 @@ Usuários poderão:
 
 ### Screenshot
 
-![](./Screenshot-Desktop.jpg)
+![](./Screenshot-Desktop.png)
 
-![](./Screenshot-Mobile.jpg)
+![](./Screenshot-Mobile.png)
 
 ### Links
 
