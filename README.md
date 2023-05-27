@@ -30,8 +30,9 @@ Usuários poderão:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/pedro-mizael/HTML-and-CSS-product-preview-card
+)
+- Live Site URL: [Site](https://pedro-mizael.github.io/HTML-and-CSS-product-preview-card/)
 
 ## My process
 
